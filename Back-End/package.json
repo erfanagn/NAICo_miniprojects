@@ -1,0 +1,18 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "ccxt",
+  "main": "1-data-ccxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erfan",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.84.19",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "mongodb": "^4.6.0"
+  }
+}
